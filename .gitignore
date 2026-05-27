@@ -1,0 +1,28 @@
+# Claude Code settings
+.claude/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+
+# Node modules (if added later)
+node_modules/
+
+# Build output (if added later)
+dist/
+build/
